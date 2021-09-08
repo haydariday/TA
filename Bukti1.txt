@@ -1,0 +1,5 @@
+outfuncs.._outfieldselect()-outfuncs.._outinnerindexscaninfo()
+
+TTT(TT,T*T){T(T);T(T);T(T);T(T);T(T);}
+
+TTT(TT,T*T){T(T);T(T);T(T);T(T);T(T);}

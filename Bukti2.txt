@@ -1,0 +1,9 @@
+alasan Kenapa Hasilnya begitu
+1. tidak dapat mendeteksi Tipe Clone 4
+2. Jika struktur/bentuk dari sebuah LoC mirip dengan LoC lain, maka akan dianggap code clone tanpa melihat proses/hasil LoC tersebut.
+3. dapat mendeteksi Code Clones Tipe 1
+4. dapat mendeteksi Code Clones Tipe 2 dan 3 karena proses Tokenize merubah bentuk kode menjadi token sehingga dapat mendeteksi code clones yang memiliki perbedaan nama variabel
+5. proses tokenize merubah code menjadi urutan token dapat menambah kemungkinan terjadinya False Positive
+
+
+apa harus dijelasin kenapa 
